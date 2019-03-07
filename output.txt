@@ -1,0 +1,36 @@
+***************************
+device cuda:0
+***************************
+
+Number of agents: 1
+Size of each action: 4
+There are 1 agents. Each observes a state with length: 33
+The state for the first agent looks like: [  0.00000000e+00  -4.00000000e+00   0.00000000e+00   1.00000000e+00
+  -0.00000000e+00  -0.00000000e+00  -4.37113883e-08   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00  -1.00000000e+01   0.00000000e+00
+   1.00000000e+00  -0.00000000e+00  -0.00000000e+00  -4.37113883e-08
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   3.50696945e+00  -1.00000000e+00
+  -7.19035244e+00   0.00000000e+00   1.00000000e+00   0.00000000e+00
+  -3.66842747e-03]
+Episode 100	Average Score: 0.08
+Episode 200	Average Score: 0.30
+Episode 300	Average Score: 0.32
+Episode 400	Average Score: 0.11
+Episode 500	Average Score: 0.19
+Episode 600	Average Score: 0.17
+Episode 700	Average Score: 0.08
+Episode 800	Average Score: 0.16
+Episode 900	Average Score: 0.22
+Episode 1000	Average Score: 0.04
+Episode 1100	Average Score: 0.14
+Episode 1200	Average Score: 0.21
+Episode 1300	Average Score: 0.03
+Episode 1400	Average Score: 0.08
+Episode 1500	Average Score: 0.12
+Episode 1600	Average Score: 0.01
+Episode 1700	Average Score: 0.04
+Episode 1800	Average Score: 0.07
+Episode 1900	Average Score: 0.01
+Episode 2000	Average Score: 0.01
